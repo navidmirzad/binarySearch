@@ -1,4 +1,4 @@
-"use strict";
+/* "use strict";
 
 const values = [1,2,3,5,7,8,9,11,12,14,15];
 
@@ -30,3 +30,4 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
+ */
